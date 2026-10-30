@@ -98,15 +98,15 @@ function ProjectsPage() {
           <div className="project-image project-image-one" role="img" aria-label="Portfolio website preview placeholder">
             <span>01</span>
           </div>
-          <h2>Portfolio Website</h2>
-          <p>A responsive portfolio showcasing my work and skills.</p>
+          <h2>Project Name</h2>
+          <p>Add a short description of your project here.</p>
         </article>
         <article className="project-card">
           <div className="project-image project-image-two" role="img" aria-label="Task tracker app preview placeholder">
             <span>02</span>
           </div>
-          <h2>Task Tracker App</h2>
-          <p>A simple app for organizing tasks and tracking progress.</p>
+          <h2>Project Name</h2>
+          <p>Add a short description of your project here.</p>
         </article>
       </div>
     </section>
